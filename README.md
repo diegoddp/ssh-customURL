@@ -1,7 +1,7 @@
 # ssh-customURL
 
 
-Verify if a site is using a plugin to mask/hide a wp-admin URL via SSH CLI, here is a list of the plugins that are verified:
+Verify if a site is using a Wordpress plugin to mask/hide a wp-admin URL via SSH CLI, here is a list of the plugins that are verified:
 
 - RENAME WP-LOGIN.PHP
 - WPS Hide Login
